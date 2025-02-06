@@ -42,7 +42,7 @@ Here’s how it works:
 
 1. Clone the repository:
    ```bash
-   https://github.com/kshitijrat/Optimal-Price.git
+https://github.com/mansi2076/optimal-pricing.git
    ```
 
 2. Navigate to the project directory:
